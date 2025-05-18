@@ -33,7 +33,7 @@ This study investigates whether poor sleep quality may contribute to increased c
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib, Scipy, Scikit-learn)
 - Jupyter Notebook (Kaggle environment)
-- Public dataset from the U.S. Department of Health & Human Services
+- Dataset from the U.S. Department of Health & Human Services
 
 ---
 
